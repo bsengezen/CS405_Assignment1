@@ -1,0 +1,139 @@
+<svg width="1200" height="700" xmlns="http://www.w3.org/2000/svg">
+
+     <!-- CS405 -->
+    <svg x="150" y="5" width="800" height="800">
+    <text x="10" y="125" font-family="Arial" font-size="16" fill="black">Beril Şengezen 26467</text>
+    <!-- Title -->
+    <text x="130" y="150" font-family="Arial" font-size="16" fill="black">Suicides by method, sex and age group</text>
+    <text x="200" y="170" font-family="Arial" font-size="16" fill="black">(Ages:20-24 Year: 2022)</text>
+    <!-- X-line -->
+    <line x1="20" y1="550" x2="520" y2="550" style="stroke:black;stroke-width:2" />
+    
+    <!-- Y-line -->
+    <line x1="20" y1="550" x2="20" y2="180" style="stroke:black;stroke-width:1" />
+    
+    <!-- Y-axis labels -->
+    <text x="1" y="175" font-family="Arial" font-size="12" fill="black">Number of People</text>
+    <text x="0" y="253" font-family="Arial" font-size="12" fill="black">300-</text>
+    <text x="0" y="303" font-family="Arial" font-size="12" fill="black">250-</text>
+    <text x="0" y="353" font-family="Arial" font-size="12" fill="black">200-</text>
+    <text x="0" y="403" font-family="Arial" font-size="12" fill="black">150-</text>
+    <text x="0" y="453" font-family="Arial" font-size="12" fill="black">100-</text>
+    <text x="6" y="503" font-family="Arial" font-size="12" fill="black">50-</text>
+    <text x="10" y="553" font-family="Arial" font-size="12" fill="black">0-</text>
+
+    <!-- Color information -->
+    <rect x="530" y="150" width="20" height="20" fill="#a57bff" />
+    <text x="560" y="165" font-family="Arial" font-size="12" fill="black">Total</text>
+    <rect x="530" y="180" width="20" height="20" fill="#00aaff" />
+    <text x="560" y="195" font-family="Arial" font-size="12" fill="black">Male</text>
+    <rect x="530" y="210" width="20" height="20" fill="pink" />
+    <text x="560" y="225" font-family="Arial" font-size="12" fill="black">Female</text>
+
+    <!-- X-axis Suicide Ways -->
+    <text x="40" y="605" font-family="Arial" font-size="10" fill="black" transform="rotate(-90, 40, 605)">By hanging</text>
+    <text x="90" y="630" font-family="Arial" font-size="10" fill="black" transform="rotate(-90, 90, 630)">Taking chemicals</text>
+    <text x="140" y="675" font-family="Arial" font-size="10" fill="black" transform="rotate(-90, 140, 675)">Throwing from a high place</text>
+    <text x="190" y="610" font-family="Arial" font-size="10" fill="black" transform="rotate(-90, 190, 610)">By drowning</text>
+    <text x="240" y="620" font-family="Arial" font-size="10" fill="black" transform="rotate(-90, 240, 620)">Using firearms</text>
+    <text x="290" y="605" font-family="Arial" font-size="10" fill="black" transform="rotate(-90, 290, 605)">By burning</text>
+    <text x="340" y="670" font-family="Arial" font-size="10" fill="black" transform="rotate(-90, 340, 670)">Using a sharp instrument</text>
+    <text x="390" y="685" font-family="Arial" font-size="10" fill="black" transform="rotate(-90, 390, 685)">Using natural gas or lpg. etc.</text>
+    <text x="550" y="745" font-family="Arial" font-size="10" fill="black" transform="rotate(-90, 440, 755)">Throwing off a train</text>
+    <text x="530" y="770" font-family="Arial" font-size="10" fill="black" transform="rotate(-90, 440, 770)">or another motorized vehicle</text>
+    <text x="490" y="580" font-family="Arial" font-size="10" fill="black" transform="rotate(-90, 490, 580)">Other</text>
+
+    <!-- By hanging -->
+    <rect x="25" y="332" width="10" height="217"  fill="#a57bff" />
+    <rect x="35" y="382" width="10" height="167" fill="#00aaff" /> 
+    <rect x="45" y="499" width="10" height="50" fill="pink" />
+
+    <text x="23" y="330" font-family="Arial" font-size="10" fill="black">217</text>
+    <text x="30" y="380" font-family="Arial" font-size="10" fill="black">167</text>
+    <text x="45" y="495" font-family="Arial" font-size="10" fill="black">50</text>
+
+
+    <!-- Taking chemicals -->
+    <rect x="70" y="488" width="10" height="61" fill="#a57bff" />
+    <rect x="80" y="530" width="10" height="19" fill="#00aaff" />
+    <rect x="90" y="507" width="10" height="42" fill="pink" />
+    
+    <text x="70" y="484" font-family="Arial" font-size="10" fill="black">61</text>
+    <text x="79" y="526" font-family="Arial" font-size="10" fill="black">19</text>
+    <text x="89" y="503" font-family="Arial" font-size="10" fill="black">42</text>
+
+
+    <!-- Throwing from a high place -->
+    <rect x="120" y="471" width="10" height="78"  fill="#a57bff" />
+    <rect x="130" y="498" width="10" height="51" fill="#00aaff" />
+    <rect x="140" y="522" width="10" height="27" fill="pink" />
+
+    <text x="120" y="467" font-family="Arial" font-size="10" fill="black">78</text>
+    <text x="130" y="494" font-family="Arial" font-size="10" fill="black">51</text>
+    <text x="140" y="518" font-family="Arial" font-size="10" fill="black">27</text>
+    
+    <!-- By drowning -->
+    <rect x="170" y="542" width="10" height="7"  fill="#a57bff" />
+    <rect x="180" y="544" width="10" height="5"  fill="#00aaff" />
+    <rect x="190" y="547" width="10" height="2" fill="pink" />
+
+    <text x="173" y="541" font-family="Arial" font-size="10" fill="black">7</text>
+    <text x="182" y="543" font-family="Arial" font-size="10" fill="black">5</text>
+    <text x="192" y="545" font-family="Arial" font-size="10" fill="black">2</text>
+    
+    <!-- Using firearms -->
+    <rect x="220" y="392" width="10" height="157" fill="#a57bff" />
+    <rect x="230" y="406" width="10" height="143" fill="#00aaff" />
+    <rect x="240" y="535" width="10" height="14" fill="pink" />
+
+    <text x="216" y="390" font-family="Arial" font-size="10" fill="black">157</text>
+    <text x="226" y="405" font-family="Arial" font-size="10" fill="black">143</text>
+    <text x="239" y="535" font-family="Arial" font-size="10" fill="black">14</text>
+
+    <!-- By burning -->
+    <rect x="270" y="449" width="10" height="0" fill="#a57bff" />
+    <rect x="280" y="449" width="10" height="0" fill="#00aaff" />
+    <rect x="290" y="449" width="10" height="0" fill="pink" />
+
+    <text x="270" y="548" font-family="Arial" font-size="10" fill="black">0</text>
+    <text x="280" y="548" font-family="Arial" font-size="10" fill="black">0</text>
+    <text x="290" y="548" font-family="Arial" font-size="10" fill="black">0</text>
+
+    <!-- Using a sharp instrument -->
+    <rect x="320" y="541" width="10" height="8" fill="#a57bff" />
+    <rect x="330" y="542" width="10" height="7" fill="#00aaff" />
+    <rect x="340" y="548" width="10" height="1" fill="pink" />
+    
+    <text x="322" y="540" font-family="Arial" font-size="10" fill="black">8</text>
+    <text x="332" y="542" font-family="Arial" font-size="10" fill="black">7</text>
+    <text x="342" y="547" font-family="Arial" font-size="10" fill="black">1</text>
+
+    <!-- Using natural  gas or lpg. etc. -->
+    <rect x="370" y="547" width="10" height="2" fill="#a57bff" />
+    <rect x="380" y="548" width="10" height="1" fill="#00aaff" />
+    <rect x="390" y="548" width="10" height="1" fill="pink" />
+    
+    <text x="372" y="545" font-family="Arial" font-size="10" fill="black">2</text>
+    <text x="382" y="545" font-family="Arial" font-size="10" fill="black">1</text>
+    <text x="392" y="545" font-family="Arial" font-size="10" fill="black">1</text>
+
+    <!-- Throwing off a train or another motorized vehicle -->
+    <rect x="420" y="547" width="10" height="2" fill="#a57bff" />
+    <rect x="430" y="547" width="10" height="2" fill="#00aaff" />
+    <rect x="440" y="550" width="10" height="0" fill="pink" />
+
+    <text x="422" y="545" font-family="Arial" font-size="10" fill="black">2</text>
+    <text x="432" y="545" font-family="Arial" font-size="10" fill="black">2</text>
+    <text x="443" y="548" font-family="Arial" font-size="10" fill="black">0</text>
+
+    <!-- Other -->
+    <rect x="470" y="537" width="10" height="12" fill="#a57bff" />
+    <rect x="480" y="543" width="10" height="6" fill="#00aaff" />
+    <rect x="490" y="543" width="10" height="6" fill="pink" />
+
+    <text x="469" y="535" font-family="Arial" font-size="10" fill="black">12</text>
+    <text x="482" y="540" font-family="Arial" font-size="10" fill="black">6</text>
+    <text x="492" y="540" font-family="Arial" font-size="10" fill="black">6</text>
+
+</svg>
+</svg>
